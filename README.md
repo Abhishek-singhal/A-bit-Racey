@@ -2,5 +2,5 @@
 My first game based on python
 
 used:
-pyGame
+pyGame,
 SDL
